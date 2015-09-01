@@ -15,3 +15,4 @@ rate KGS-Data and if you request data not yet copied to S3 it will be
 fetched from KGS at a rate that respects the speed limits that are in
 place.
 
+This code and service are not affiliated with KGS in any way.
